@@ -85,3 +85,8 @@ Demographic analysis helps understand patterns of political support.
 
 Drill-through analysis enables constituency-level decision making.
 
+📌 Author
+
+👤 Abhijeet Anand
+📧 [abhijeet790@gmail.com]
+🔗 [[LinkedIn Profile Here](https://www.linkedin.com/in/abhijeet-anand01/)]
