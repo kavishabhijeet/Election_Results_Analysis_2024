@@ -43,21 +43,27 @@ Copy code
 
 ### 🔹 Landing Page  
 ![Landing Page](Screenshots/Landing_Page.jpg)  
+![Landing Page_Screenshot](https://github.com/user-attachments/assets/6c43afb3-6212-4672-8d04-c2798a2e94a2)
 
 ### 🔹 Overview Analysis  
 ![Overview](Screenshots/Overview_Analysis.jpg)  
+![Overview Analysis_Screenshot](https://github.com/user-attachments/assets/ea50a3e9-4989-42b1-95ec-6d7333f1afc5)
 
 ### 🔹 State Demographics  
 ![State Demographics](Screenshots/State_Demographics.jpg)  
+![State Demographic_Screenshot](https://github.com/user-attachments/assets/a41a94b7-ecbb-4202-af3e-06bcb164ddae)
 
 ### 🔹 Political Landscape by State  
 ![Political Landscape](Screenshots/Political_Landscape.jpg)  
 
-### 🔹 Constituency Analysis  
+### 🔹 Cons![Polotical Landscape By State_Screenshot](https://github.com/user-attachments/assets/59407e02-05f0-4828-a7c8-4c89a219026f)
+tituency Analysis  
 ![Constituency Analysis](Screenshots/Constituency_Analysis.jpg)  
+![Constituency Analysis_Screenshot](https://github.com/user-attachments/assets/f7c05965-85b6-4a0f-b809-ea37f89bed38)
 
 ### 🔹 Detailed Grid View  
 ![Details Grid](Screenshots/Details_Grid.jpg)  
+![Details Grid_Screenshot](https://github.com/user-attachments/assets/3263b8bd-57ed-4371-80bd-f4fdacc2df17)
 
 ---
 
